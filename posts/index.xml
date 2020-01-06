@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Düşünce Egzersizi</title>
+    <link>http://dusunceegzersizi.github.io/posts/</link>
+    <description>Recent content in Posts on Düşünce Egzersizi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Mon, 06 Jan 2020 15:35:19 +0300</lastBuildDate>
+    
+	<atom:link href="http://dusunceegzersizi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Merhaba Dünya</title>
+      <link>http://dusunceegzersizi.github.io/posts/merhaba-dunya/</link>
+      <pubDate>Mon, 06 Jan 2020 15:35:19 +0300</pubDate>
+      
+      <guid>http://dusunceegzersizi.github.io/posts/merhaba-dunya/</guid>
+      <description>Merhaba Dünya, Bu blog&#39;u, kafamdaki bazı fikirleri anonim olarak tartışabilmek için açtım.
+Mesela şu an kafamda olan konu dua etme ve dualara alınabilecek cevaplar üzerine. Bu konuda gerçeği aradığını iddia eden insanların(Edip Yüksel, Jordan Peterson, İhsan Eliaçık, vs.) iddialarını ve kendi fikirlerimi ifade etmek istiyorum. Ama bu konuyu bir kaç cümle ile konuşmak yetersiz kalır. Uzunca konuşulması gereken bir konu. Tartışan iki tarafın, birbirine uzunca konuşma imkanı vermesi gereken bir konu.</description>
+    </item>
+    
+  </channel>
+</rss>
